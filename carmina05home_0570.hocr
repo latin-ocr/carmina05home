@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./carmina05home/carmina05home_0570.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 591 332 621 363">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 591 332 621 363">
+     <span class='ocr_line' id='line_1_1' title="bbox 591 332 621 363; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 602 358 610 363; x_wconf 64' lang='lat' dir='ltr'><em>e</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 591 332 621 352; x_wconf 28' lang='lat' dir='ltr'><em>*Astu</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1679 167 2912 4264">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1679 167 2912 4264">
+     <span class='ocr_line' id='line_1_2' title="bbox 1679 167 2912 4264; textangle 180"><span class='ocrx_word' id='word_1_3' title='bbox 1679 167 2912 4264; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1143 71 1170 122">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1143 71 1170 122">
+     <span class='ocr_line' id='line_1_3' title="bbox 1143 71 1170 122; textangle 180"><span class='ocrx_word' id='word_1_4' title='bbox 1143 99 1165 122; x_wconf 62' lang='grc' dir='ltr'><em>ε.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1160 88 1164 91; x_wconf 96' lang='grc'>.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1156 71 1170 81; x_wconf 25' lang='grc'><em>,4</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
